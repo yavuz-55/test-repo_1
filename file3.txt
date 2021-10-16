@@ -1,2 +1,3 @@
 Started new work  on file 3
 Strated component 1
+Strated component 2
